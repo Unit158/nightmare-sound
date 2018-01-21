@@ -1,2 +1,7 @@
 #vim
 *~
+
+#musescore - note: tracking compressed files is inefficient with git.
+#Please be sure to save as plain text when possible.
+*mscz
+*mscx,
